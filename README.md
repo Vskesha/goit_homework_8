@@ -11,7 +11,8 @@ For example:
 
 Users whose birthdays was on Saturday and Sunday are printed on Monday
 
-users is a list of dicts. Each dict represents user and has keys 
+
+`users` is a list of dicts. Each dict represents user and has keys 
 `'name'` and `'birthday'`
                 
 birthday may be given as `datetime` or `date` or `str` object
